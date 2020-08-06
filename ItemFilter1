@@ -217,9 +217,9 @@ ItemDisplay[skz]: %GRAY%||||%GOLD%Perfect%GRAY%||||%WHITE%
 // Orange Rune Number: Mal, Ist, Gul
 // Green Rune Number: Vex, Ohm, Lo, Sur, Ber, Jah, Cham, Zod
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[r01]: %ORANGE%El%GRAY%[1]%WHITE%MAP-62%%BORDER-84%%NOTIFY-1%
-ItemDisplay[r02]: %ORANGE%Eld%GRAY%[2]%WHITE%MAP-62%%BORDER-84%%NOTIFY-1%
-ItemDisplay[r03]: %ORANGE%Tir%GRAY%[3]%WHITE%MAP-62%%BORDER-84%%NOTIFY-1%
+ItemDisplay[r01]: %ORANGE%El%GRAY%[1]%WHITE%
+ItemDisplay[r02]: %ORANGE%Eld%GRAY%[2]%WHITE%
+ItemDisplay[r03]: %ORANGE%Tir%GRAY%[3]%WHITE%
 ItemDisplay[r04]: %ORANGE%Nef%GRAY%[4]%WHITE%
 ItemDisplay[r05]: %ORANGE%Eth%GRAY%[5]%WHITE%
 ItemDisplay[r06]: %ORANGE%Ith%GRAY%[6]%WHITE%
