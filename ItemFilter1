@@ -263,18 +263,18 @@ ItemDisplay[key]: %NAME%
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 // [Optional] Use potion names that are a compact version of standard/vanilla D2's names.
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-//ItemDisplay[hp1]: %RED%[%WHITE%Minor Healing%RED%]%WHITE%
-//ItemDisplay[hp2]: %RED%[%WHITE%Light Healing%RED%]%WHITE%
-//ItemDisplay[hp3]: %RED%[%WHITE%Healing%RED%]%WHITE%
-//ItemDisplay[hp4]: %RED%[%WHITE%Great Healing%RED%]%WHITE%
-//ItemDisplay[hp5]: %RED%[%WHITE%Super Healing%RED%]%WHITE%
-//ItemDisplay[mp1]: %BLUE%[%WHITE%Minor Mana%BLUE%]%WHITE%
-//ItemDisplay[mp2]: %BLUE%[%WHITE%Light Mana%BLUE%]%WHITE%
-//ItemDisplay[mp3]: %BLUE%[%WHITE%Mana%BLUE%]%WHITE%
-//ItemDisplay[mp4]: %BLUE%[%WHITE%Great Mana%BLUE%]%WHITE%
-//ItemDisplay[mp5]: %BLUE%[%WHITE%Super Mana%BLUE%]%WHITE%
-//ItemDisplay[rvs]: %PURPLE%[%WHITE%Rejuvenation%PURPLE%]%WHITE%
-//ItemDisplay[rvl]: %PURPLE%[%WHITE%Full Rejuvenation%PURPLE%]%WHITE%
+//ItemDisplay[hp1]: %RED%[%RED%Minor Healing%RED%]%RED%
+//ItemDisplay[hp2]: %RED%[%RED%Light Healing%RED%]%RED%
+//ItemDisplay[hp3]: %RED%[%RED%Healing%RED%]%RED%
+//ItemDisplay[hp4]: %RED%[%RED%Great Healing%RED%]%RED%
+//ItemDisplay[hp5]: %RED%[%RED%Super Healing%RED%]%RED%
+//ItemDisplay[mp1]: %BLUE%[%WHITE%Minor Mana%BLUE%]%BLUE%
+//ItemDisplay[mp2]: %BLUE%[%WHITE%Light Mana%BLUE%]%BLUE%
+//ItemDisplay[mp3]: %BLUE%[%WHITE%Mana%BLUE%]%BLUE%
+//ItemDisplay[mp4]: %BLUE%[%WHITE%Great Mana%BLUE%]%BLUE%
+//ItemDisplay[mp5]: %BLUE%[%WHITE%Super Mana%BLUE%]%BLUE%
+//ItemDisplay[rvs]: %PURPLE%[%WHITE%Rejuvenation%PURPLE%]%GOLD%
+//ItemDisplay[rvl]: %PURPLE%[%WHITE%Full Rejuvenation%PURPLE%]%GOLD%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Default Potion Naming Method
 //─────────────────────────────────────────────────────────────────────────────────────────────────
