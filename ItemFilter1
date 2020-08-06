@@ -278,18 +278,18 @@ ItemDisplay[key]: %NAME%
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // Default Potion Naming Method
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[hp1]: %RED%[%RED%Health1%RED%]%RED%
-ItemDisplay[hp2]: %RED%[%RED%Health2%RED%]%RED%
-ItemDisplay[hp3]: %RED%[%RED%Health3%RED%]%RED%
-ItemDisplay[hp4]: %RED%[%RED%Health4%RED%]%RED%
-ItemDisplay[hp5]: %RED%[%RED%Health5%RED%]%RED%
-ItemDisplay[mp1]: %BLUE%[%BLUE%Mana1%BLUE%]%BLUE%
-ItemDisplay[mp2]: %BLUE%[%BLUE%Mana2%BLUE%]%BLUE%
-ItemDisplay[mp3]: %BLUE%[%BLUE%Mana3%BLUE%]%BLUE%
-ItemDisplay[mp4]: %BLUE%[%BLUE%Mana4%BLUE%]%BLUE%
-ItemDisplay[mp5]: %BLUE%[%BLUE%Mana5%BLUE%]%BLUE%
-ItemDisplay[rvs]: %PURPLE%[%WHITE%Rejuv%PURPLE%]%WHITE%
-ItemDisplay[rvl]: %PURPLE%[%WHITE%Full Rejuv%PURPLE%]%WHITE%
+ItemDisplay[hp1]: %TAN%[%RED%Health1%TAN%]%RED%
+ItemDisplay[hp2]: %TAN%[%RED%Health2%TAN%]%RED%
+ItemDisplay[hp3]: %TAN%[%RED%Health3%TAN%]%RED%
+ItemDisplay[hp4]: %TAN%[%RED%Health4%TAN%]%RED%
+ItemDisplay[hp5]: %TAN%[%RED%Health5%TAN%]%RED%
+ItemDisplay[mp1]: %TAN%[%BLUE%Mana1%TAN%]%BLUE%
+ItemDisplay[mp2]: %TAN%[%BLUE%Mana2%TAN%]%BLUE%
+ItemDisplay[mp3]: %TAN%[%BLUE%Mana3%TAN%]%BLUE%
+ItemDisplay[mp4]: %TAN%[%BLUE%Mana4%TAN%]%BLUE%
+ItemDisplay[mp5]: %TAN%[%BLUE%Mana5%TAN%]%BLUE%
+ItemDisplay[rvs]: %TAN%[%PURPLE%Rejuv%TAN%]%PURPLE%
+ItemDisplay[rvl]: %TAN%[%PURPLE%Full Rejuv%TAN%]%PURPLE%
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                                 ▬▬▬▬▬ Throwing Potions ▬▬▬▬▬                                  ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
