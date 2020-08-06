@@ -217,39 +217,39 @@ ItemDisplay[skz]: %GRAY%||||%GOLD%Perfect%GRAY%||||%WHITE%
 // Orange Rune Number: Mal, Ist, Gul
 // Green Rune Number: Vex, Ohm, Lo, Sur, Ber, Jah, Cham, Zod
 //─────────────────────────────────────────────────────────────────────────────────────────────────
-ItemDisplay[r01]: %ORANGE%El%GRAY%[1]%WHITE%NOTIFY-1%
-ItemDisplay[r02]: %ORANGE%Eld%GRAY%[2]%WHITE%NOTIFY-1%
-ItemDisplay[r03]: %ORANGE%Tir%GRAY%[3]%WHITE%NOTIFY-1%
-ItemDisplay[r04]: %ORANGE%Nef%GRAY%[4]%WHITE%NOTIFY-1%
-ItemDisplay[r05]: %ORANGE%Eth%GRAY%[5]%WHITE%NOTIFY-1%
-ItemDisplay[r06]: %ORANGE%Ith%GRAY%[6]%WHITE%NOTIFY-1%
-ItemDisplay[r07]: %ORANGE%Tal%GRAY%[7]%WHITE%NOTIFY-1%
-ItemDisplay[r08]: %ORANGE%Ral%GRAY%[8]%WHITE%NOTIFY-1%
-ItemDisplay[r09]: %ORANGE%Ort%GRAY%[9]%WHITE%NOTIFY-1%
-ItemDisplay[r10]: %ORANGE%Thul%GRAY%[10]%WHITE%NOTIFY-1%
-ItemDisplay[r11]: %ORANGE%Amn%GRAY%[11]%WHITE%NOTIFY-1%
-ItemDisplay[r12]: %ORANGE%Sol%GRAY%[12]%WHITE%NOTIFY-1%
-ItemDisplay[r13]: %ORANGE%Shael%WHITE%[13]%WHITE%NOTIFY-1%
-ItemDisplay[r14]: %ORANGE%Dol%WHITE%[14]%WHITE%NOTIFY-1%
-ItemDisplay[r15]: %ORANGE%Hel%WHITE%[15]%WHITE%NOTIFY-1%
-ItemDisplay[r16]: %ORANGE%Io%WHITE%[16]%WHITE%NOTIFY-1%
-ItemDisplay[r17]: %ORANGE%Lum%WHITE%[17]%WHITE%NOTIFY-1%
-ItemDisplay[r18]: %ORANGE%Ko%WHITE%[18]%WHITE%NOTIFY-1%
-ItemDisplay[r19]: %ORANGE%Fal%WHITE%[19]%WHITE%NOTIFY-1%
-ItemDisplay[r20]: %ORANGE%Lem%YELLOW%[20]%WHITE%NOTIFY-1%
-ItemDisplay[r21]: %ORANGE%Pul%YELLOW%[21]%WHITE%NOTIFY-1%
-ItemDisplay[r22]: %ORANGE%Um%YELLOW%[22]%WHITE%NOTIFY-1%
-ItemDisplay[r23]: %ORANGE%Mal[23]%WHITE%NOTIFY-1%
-ItemDisplay[r24]: %ORANGE%Ist[24]%WHITE%NOTIFY-1%
-ItemDisplay[r25]: %ORANGE%Gul[25]%WHITE%NOTIFY-1%
-ItemDisplay[r26]: %ORANGE%Vex%GREEN%[26]%WHITE%NOTIFY-b%
-ItemDisplay[r27]: %ORANGE%Ohm%GREEN%[27]%WHITE%NOTIFY-b%
-ItemDisplay[r28]: %ORANGE%Lo%GREEN%[28]%WHITE%NOTIFY-b%
-ItemDisplay[r29]: %ORANGE%Sur%GREEN%[29]%WHITE%NOTIFY-b%
-ItemDisplay[r30]: %ORANGE%Ber%GREEN%[30]%WHITE%NOTIFY-b%
-ItemDisplay[r31]: %ORANGE%Jah%GREEN%[31]%WHITE%NOTIFY-b%
-ItemDisplay[r32]: %ORANGE%Cham%GREEN%[32]%WHITE%NOTIFY-b%
-ItemDisplay[r33]: %ORANGE%Zod%GREEN%[33]%WHITE%NOTIFY-b%
+ItemDisplay[r01]: %ORANGE%El%GRAY%[1]%WHITE%MAP-62%%BORDER-84%%NOTIFY-1%
+ItemDisplay[r02]: %ORANGE%Eld%GRAY%[2]%WHITE%MAP-62%%BORDER-84%%NOTIFY-1%
+ItemDisplay[r03]: %ORANGE%Tir%GRAY%[3]%WHITE%MAP-62%%BORDER-84%%NOTIFY-1%
+ItemDisplay[r04]: %ORANGE%Nef%GRAY%[4]%WHITE%
+ItemDisplay[r05]: %ORANGE%Eth%GRAY%[5]%WHITE%
+ItemDisplay[r06]: %ORANGE%Ith%GRAY%[6]%WHITE%
+ItemDisplay[r07]: %ORANGE%Tal%GRAY%[7]%WHITE%
+ItemDisplay[r08]: %ORANGE%Ral%GRAY%[8]%WHITE%
+ItemDisplay[r09]: %ORANGE%Ort%GRAY%[9]%WHITE%
+ItemDisplay[r10]: %ORANGE%Thul%GRAY%[10]%WHITE%
+ItemDisplay[r11]: %ORANGE%Amn%GRAY%[11]%WHITE%
+ItemDisplay[r12]: %ORANGE%Sol%GRAY%[12]%WHITE%
+ItemDisplay[r13]: %ORANGE%Shael%WHITE%[13]%WHITE%
+ItemDisplay[r14]: %ORANGE%Dol%WHITE%[14]%WHITE%
+ItemDisplay[r15]: %ORANGE%Hel%WHITE%[15]%WHITE%
+ItemDisplay[r16]: %ORANGE%Io%WHITE%[16]%WHITE%
+ItemDisplay[r17]: %ORANGE%Lum%WHITE%[17]%WHITE%
+ItemDisplay[r18]: %ORANGE%Ko%WHITE%[18]%WHITE%
+ItemDisplay[r19]: %ORANGE%Fal%WHITE%[19]%WHITE%
+ItemDisplay[r20]: %ORANGE%Lem%YELLOW%[20]%WHITE%
+ItemDisplay[r21]: %ORANGE%Pul%YELLOW%[21]%WHITE%
+ItemDisplay[r22]: %ORANGE%Um%YELLOW%[22]%WHITE%
+ItemDisplay[r23]: %ORANGE%Mal[23]%WHITE%
+ItemDisplay[r24]: %ORANGE%Ist[24]%WHITE%
+ItemDisplay[r25]: %ORANGE%Gul[25]%WHITE%
+ItemDisplay[r26]: %ORANGE%Vex%GREEN%[26]%WHITE%
+ItemDisplay[r27]: %ORANGE%Ohm%GREEN%[27]%WHITE%
+ItemDisplay[r28]: %ORANGE%Lo%GREEN%[28]%WHITE%
+ItemDisplay[r29]: %ORANGE%Sur%GREEN%[29]%WHITE%
+ItemDisplay[r30]: %ORANGE%Ber%GREEN%[30]%WHITE%
+ItemDisplay[r31]: %ORANGE%Jah%GREEN%[31]%WHITE%
+ItemDisplay[r32]: %ORANGE%Cham%GREEN%[32]%WHITE%
+ItemDisplay[r33]: %ORANGE%Zod%GREEN%[33]%WHITE%
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║                     ▬▬▬▬▬ Town Portal and ID Scrolls/Tomes and Keys ▬▬▬▬▬                     ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
