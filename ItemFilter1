@@ -283,11 +283,11 @@ ItemDisplay[hp2]: %RED%[%RED%Health2%RED%]%RED%
 ItemDisplay[hp3]: %RED%[%RED%Health3%RED%]%RED%
 ItemDisplay[hp4]: %RED%[%RED%Health4%RED%]%RED%
 ItemDisplay[hp5]: %RED%[%RED%Health5%RED%]%RED%
-ItemDisplay[mp1]: %BLUE%[%WHITE%Mana1%BLUE%]%GOLD%
-ItemDisplay[mp2]: %BLUE%[%WHITE%Mana2%BLUE%]%GOLD%
-ItemDisplay[mp3]: %BLUE%[%WHITE%Mana3%BLUE%]%GOLD%
-ItemDisplay[mp4]: %BLUE%[%WHITE%Mana4%BLUE%]%GOLD%
-ItemDisplay[mp5]: %BLUE%[%WHITE%Mana5%BLUE%]%GOLD%
+ItemDisplay[mp1]: %BLUE%[%BLUE%Mana1%BLUE%]%BLUE%
+ItemDisplay[mp2]: %BLUE%[%BLUE%Mana2%BLUE%]%BLUE%
+ItemDisplay[mp3]: %BLUE%[%BLUE%Mana3%BLUE%]%BLUE%
+ItemDisplay[mp4]: %BLUE%[%BLUE%Mana4%BLUE%]%BLUE%
+ItemDisplay[mp5]: %BLUE%[%BLUE%Mana5%BLUE%]%BLUE%
 ItemDisplay[rvs]: %PURPLE%[%WHITE%Rejuv%PURPLE%]%WHITE%
 ItemDisplay[rvl]: %PURPLE%[%WHITE%Full Rejuv%PURPLE%]%WHITE%
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
